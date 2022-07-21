@@ -1,0 +1,10 @@
+.expenses {
+  overflow-y: auto;
+  height: 80vh;
+  padding: 0rem 1rem 1rem 1rem;
+  padding-bottom: 0;
+  background-color: rgb(31, 31, 31);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
